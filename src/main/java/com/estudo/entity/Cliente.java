@@ -1,4 +1,4 @@
-package com.estudo.entity; //o packege é sempre um site ao contrário. ex. br.com.accenture.backend
+package com.estudo.entity; 
 public class Cliente {
    private int codigo;
    private String nome;
